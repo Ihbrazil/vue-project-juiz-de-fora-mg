@@ -1,0 +1,2 @@
+# vue-project-juiz-de-fora-mg
+“Estudo de Caso” versando sobre a implementação de uma aplicação front-end componentizada utilizando Vue que apresente informações sobre Juiz de Fora-MG. A aplicação apresenta pontos de interesse deste local. Esses pontos são categorizados para que o usuário possa encontrar as informações facilmente. O Vue e a componentização são usados para deixar a aplicação dinâmica e interessante para que o usuário possa acessá-la.
